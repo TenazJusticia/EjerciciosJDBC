@@ -8,8 +8,8 @@ import javax.swing.JOptionPane;
 import modelo.DB.ConexionDB;
 
 /**
- *
- * @author vicrodriguezp
+ * 
+ * @author Lucas
  */
 public class Profesor {
 
